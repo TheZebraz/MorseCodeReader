@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MorseCodeReader</string>
+    <string name="main_touch_lenght_format">%d ms</string>
 </resources>
